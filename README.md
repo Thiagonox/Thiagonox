@@ -1,4 +1,4 @@
-<h1 style="color:#F20732">What is nox?</h1>
+### What is nox?
 Se escrevo na sexta é porquê vivi na quinta - Makalister
 
 Não
