@@ -1,4 +1,4 @@
-## What is nox? 
+# What is nox? 
 
 <div align="center">
   <a href="https://github.com/Thiagonox">
