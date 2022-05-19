@@ -1,6 +1,4 @@
 ### What is nox?
-<!-- Se escrevo na sexta é porquê vivi na quinta - Makalister --!>
-
 
 <div>
   <a href="https://github.com/Thiagonox">
