@@ -1,7 +1,7 @@
 ### What is nox?
  <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Thiagonox&show_icons=true&theme=transparent"
+  srcset="https://github-readme-stats.vercel.app/api?username=Thiagonox&show_icons=true&theme=midnight-purple"
   media="(prefers-color-scheme: dark)"
 />
 <source
