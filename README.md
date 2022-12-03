@@ -1,8 +1,8 @@
 ### Não julgue, estou aprendendo
  <div>
   <a href="https://github.com/Thiagonox">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Thiagonox&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagonox&layout=compact&langs_count=3&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiagonox&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagonox&layout=compact&langs_count=3&theme=midnight-purple"/>
 </div>
  
  ## Tecnologias dominadas
