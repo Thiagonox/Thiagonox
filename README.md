@@ -24,4 +24,5 @@
  <img align="center" alt="MaterialUi" title="MaterialUi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
  <img align="center" alt="Bulma" title="Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
  <img align="center" alt="Svelte" title="Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img align="center" alt="Eleventy" title="Eleventy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" />
 </div>
