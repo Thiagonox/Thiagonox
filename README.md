@@ -1,4 +1,5 @@
-### Não julgue, estou aprendendo
+## Olá, me chamo Thiago Gentil :blush:
+> **Atualmente** o meu foco de estudo é frontend
  <div>
   <a href="https://github.com/Thiagonox">
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiagonox&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
