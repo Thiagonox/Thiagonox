@@ -3,11 +3,15 @@
 Estou me especializando em tecnologias como Vue, Nuxt e React, mas também estou interessado em aprender mais sobre Svelte, Angular e Kotlin. Alguns dos meus projetos mais recentes incluem um blog de jardinagem feito em nuxt e um site institucional do NEABI pertencente ao IFBA campus Brumado criado com React. Você pode ver mais sobre meu trabalho aqui no meu github e entrar em contato comigo pelo meu e-mail e redes socias.
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/thiago-gentil-096937202/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/linkedin-8369CE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
   <a href="https://www.instagram.com/thiago._.gentil/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-8369CE?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
  
- <a href="mailto:thiagogentil499@gmail.com" alt="Discord">
+ <a href="mailto:thiagogentil499@gmail.com" alt="e-mail">
     <img src="https://img.shields.io/badge/Gmail-8369CE?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
