@@ -6,12 +6,8 @@ Estou me especializando em tecnologias como Vue, Nuxt e React, mas também estou
   <a href="https://www.instagram.com/thiago._.gentil/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-8369CE?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
-  
-  <a href="https://discord.gg/#0407" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-8369CE?style=for-the-badge&logo=Discord&logoColor=FFF"/>
-  </a>
  
- <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
+ <a href="mailto:thiagogentil499@gmail.com" alt="Discord">
     <img src="https://img.shields.io/badge/Gmail-8369CE?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
