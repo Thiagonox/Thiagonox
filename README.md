@@ -20,7 +20,7 @@ Estou me especializando em tecnologias como Vue, Nuxt e React, mas também estou
  <div>
   <a href="https://github.com/Thiagonox">
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiagonox&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagonox&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagonox&layout=compact&langs_count=9&theme=midnight-purple"/>
 </div>
  
  ## Tecnologias que utilizo
