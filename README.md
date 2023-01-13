@@ -25,7 +25,7 @@ Estou me especializando em tecnologias como Vue, Nuxt e React, mas também estou
  
  ## Tecnologias que utilizo
  
- ![My Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind,vue,nuxt,react,vite,git)
+ ![My Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind,vue,nuxt,react,vite)
  
  ## Aprendendo / Interesse
  
