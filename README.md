@@ -8,7 +8,7 @@ Estou me especializando em tecnologias como Vue, Nuxt e React, mas também estou
     <img src="https://img.shields.io/badge/-Instagram-8369CE?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/ThiagoGentil-/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/thiagonox/" alt="Linkedin">
     <img src="https://img.shields.io/badge/linkedin-8369CE?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  
