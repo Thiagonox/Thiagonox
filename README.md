@@ -4,15 +4,15 @@ Estou me especializando em tecnologias como Vue, Nuxt e React, mas também estou
 
 <div align="left">
   
-  <a href="https://www.instagram.com/thiago._.gentil/" alt="Instagram">
+  <a href="https://www.instagram.com/thiago._.gentil/" target="_blank" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-8369CE?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/thiagonox/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/thiagonox/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/linkedin-8369CE?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  
- <a href="mailto:thiagogentil499@gmail.com" alt="e-mail">
+ <a href="mailto:thiagogentil499@gmail.com" target="_blank" alt="e-mail">
     <img src="https://img.shields.io/badge/Gmail-8369CE?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
