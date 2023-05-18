@@ -28,4 +28,4 @@ Estou me especializando em tecnologias como Vue, Nuxt e React, mas também estou
  
  ## Aprendendo / Interesse
  
- ![My Skills](https://skills.thijs.gg/icons?i=svelte,kotlin,next,redux,electron,laravel,php,flutter,bootstrap)
+ ![My Skills](https://skills.thijs.gg/icons?i=next,php,flutter,bootstrap)
