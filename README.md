@@ -1,5 +1,5 @@
 ## Olá, me chamo Thiago Gentil :blush:
-Estou me especializando em tecnologias como Vue, Nuxt e React. Alguns dos meus projetos mais recentes incluem um blog de jardinagem feito em nuxt e um site institucional do NEABI pertencente ao IFBA campus Brumado criado com React. Você pode ver mais sobre meu trabalho aqui no meu github e entrar em contato comigo pelo meu e-mail e redes socias.
+
 
 <div align="left">
   
